@@ -1,0 +1,12 @@
+=head1 NAME
+
+LaTeX::Beamer::Info - Create .info file for Impressive directly from a Beamer .nav file
+
+=head1 SYNOPSIS
+
+coming soon
+
+=head1 DESCRIPTION
+
+Beamer makes beautiful presentations and Impress!ve shows presentations beautifully. Its too bad that they don't play nicer together. These classes and scripts help make that possible. This is the latest incarnation of the 'makebeamerinfo' project.
+
